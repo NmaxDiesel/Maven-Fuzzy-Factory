@@ -16,3 +16,5 @@ add business?
 do the sql
 
 consider to use pers web?
+
+learn the lang first!
